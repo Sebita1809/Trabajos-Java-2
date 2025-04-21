@@ -14,9 +14,5 @@ public class main {
         ticket1.cerrarTicket(0);
         System.out.println(ticket1);
 
-
-
-
-
     }
 }
